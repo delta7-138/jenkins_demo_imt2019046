@@ -8,7 +8,9 @@ def jenkins_test():
     assert ans==1
 
     ans = fact(6)
-    assert ans==720
+    assert ans==72
+
+
 
 if __name__ == '__main__':
     try: 
